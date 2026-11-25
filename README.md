@@ -1,0 +1,1 @@
+# dz_prak12_PassMassivtoInFunc
